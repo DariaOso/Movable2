@@ -1,7 +1,7 @@
 package ru.mirea.java.year2020.autumn.task6;
 
-import ru.mirea.java.year2020.autumn.task5.Movable;
-import ru.mirea.java.year2020.autumn.task5.MovablePoint;
+import ru.mirea.Movable;
+import ru.mirea.MovablePoint;
 
 public class MovableRectangle implements Movable {
     MovablePoint topPoint, bottomPoint;
